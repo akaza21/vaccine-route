@@ -1,7 +1,7 @@
 
 
-# VacineRoute
-VacRoute is an online vaccination center tracker which can track vaccination centers around you and show you the optimum route to reach the center.
+# VaccineRoute
+Vaccine Route is an online vaccination center tracker which can track vaccination centers around you and show you the optimum route to reach the center.
 
 
 
@@ -41,9 +41,9 @@ Home Page
 ![App Screenshot](https://i.imgur.com/Bi67MH6.png)
 
 
-## Contributors
-Shayan Debroy
-Diya Karmakar
+
+
+
 
 
 
